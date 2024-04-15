@@ -1,0 +1,1 @@
+# wroti-reactnative-svg-plugin
